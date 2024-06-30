@@ -6,34 +6,81 @@ import { twMerge } from "tailwind-merge";
 export const TechStack = () => {
   const stack = [
     {
+      title: "Python",
+      src: "/images/logos/python.png",
+
+      className: "h-10 w-10",
+    },
+    {
+      title: "Javascript",
+      src: "/images/logos/javascript.png",
+
+      className: "h-10 w-10",
+    },
+    {
+      title: "C",
+      src: "/images/logos/C.png",
+
+      className: "h-10 w-10",
+    },
+    {
+      title: "C++",
+      src: "/images/logos/C++.png",
+
+      className: "h-10 w-10",
+    },
+    {
+      title: "Java",
+      src: "/images/logos/java.png",
+
+      className: "h-10 w-10",
+    },
+    {
       title: "Next.js",
       src: "/images/logos/next.png",
 
       className: "h-10 w-14",
     },
     {
-      title: "AWS",
-      src: "/images/logos/aws.webp",
+      title: "React",
+      src: "/images/logos/react.png",
 
       className: "h-10 w-10",
     },
-    {
-      title: "Figma",
-      src: "/images/logos/figma.png",
 
-      className: "h-10 w-8",
+    {
+      title: "PostgreSQL",
+      src: "/images/logos/PostgreSQL.png",
+
+      className: "h-12 w-12",
     },
     {
-      title: "Framer Motion",
-      src: "/images/logos/framer.webp",
+      title: "Django",
+      src: "/images/logos/django.png",
 
-      className: "h-10 w-10",
+      className: "h-10 w-16",
     },
+
+    
     {
-      title: "Node",
-      src: "/images/logos/node.png",
+      title: "Git",
+      src: "/images/logos/git.png",
 
       className: "h-10 w-12",
+    },
+
+
+    {
+      title: "Matlab",
+      src: "/images/logos/matlab.png",
+
+      className: "h-10 w-10",
+    },
+    {
+      title: "Arduino",
+      src: "/images/logos/arduino.png",
+
+      className: "h-10 w-10",
     },
     {
       title: "Tailwind",
@@ -42,11 +89,13 @@ export const TechStack = () => {
       className: "h-10 w-24",
     },
     {
-      title: "Vercel",
-      src: "/images/logos/vercel.png",
+      title: "Figma",
+      src: "/images/logos/figma.png",
 
-      className: "h-10 w-24",
+      className: "h-10 w-8",
     },
+
+
   ];
   return (
     <div>
