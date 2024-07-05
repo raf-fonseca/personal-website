@@ -87,7 +87,7 @@ export default function About() {
           such as running when I want it the least, the gym, and Muay Thai (recently).
         </Paragraph>
         <Paragraph className=" mt-4">
-          What sets me apart is my hunger and desire for success. I have 
+          What sets me apart is my passion and drive for success. I have 
           stared at the face of failure, and it only ignited me. 
           I did everything in my power and more to make sure I am where I am today. 
         </Paragraph>
