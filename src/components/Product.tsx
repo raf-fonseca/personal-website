@@ -41,13 +41,13 @@ export const SingleProduct = ({ product }: { product: Product }) => {
             onClick={() => setActiveImage(image)}
             key={`image-thumbnail-${idx}`}
           >
-            <Image
+            {/* <Image
               src={image}
               alt="product thumbnail"
               height="1000"
               width="1000"
               className="h-14 w-16 md:h-40 md:w-60 object-cover object-top mr-4 mb-r border rounded-lg border-neutral-100"
-            />
+            /> */}
           </button>
         ))}
       </div>
