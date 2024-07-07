@@ -22,7 +22,7 @@ export default async function Blog() {
       <span className="text-4xl">📝</span>
       <Heading className="font-black pb-4">I write about technology</Heading>
       <Paragraph className="pb-10">
-        Ever since <Highlight> I was a kid</Highlight>, I&apos;ve been
+        Ever since <Highlight> I was a kid</Highlight>, I've been
         fascinated by technology.
       </Paragraph>
       <Blogs blogs={data} />

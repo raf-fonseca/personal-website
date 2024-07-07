@@ -10,9 +10,9 @@ export default function Home() {
   return (
     <Container>
       <span className="text-4xl">👋</span>
-      <Heading className="font-black">Hello there! I&apos;m Rafael</Heading>
+      <Heading className="font-black">Hello there! I'm Rafael</Heading>
       <Paragraph className="max-w-xl mt-4">
-        I&apos;m a Software Developer studying Computer Engineering at 
+        I'm a Software Developer studying Computer Engineering at 
         the <Highlight>University of Waterloo</Highlight>. My passion for 
         learning has led me to explore web development, machine learning, and Web3.
       </Paragraph>
@@ -20,7 +20,7 @@ export default function Home() {
         as="h2"
         className="font-black text-lg md:text-lg lg:text-lg mt-10 mb-4"
       >
-        What I&apos;ve been working on
+        What I've been working on
       </Heading>
       <Products />
       <TechStack />
