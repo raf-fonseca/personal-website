@@ -71,7 +71,7 @@ export default function About() {
 
       <div className="max-w-4xl">
         <Paragraph className=" mt-4">
-          Hey there, I&apos;m Rafael Fonseca - a passionate founder, developer,
+          Hey there, my name is Rafael Fonseca - a passionate founder, developer,
           and tech enthusiast. Welcome to my personal website!
         </Paragraph>
         <Paragraph className=" mt-4">
@@ -82,7 +82,7 @@ export default function About() {
         </Paragraph>
 
         <Paragraph className=" mt-4">
-          But my journey doesn&apos;t stop at coding. I am also passionate about 
+          But my journey does not stop at coding. I am also passionate about 
           self growth. This includes activites that will improve my mental toughness
           such as running when I want it the least, the gym, and Muay Thai (recently).
         </Paragraph>
