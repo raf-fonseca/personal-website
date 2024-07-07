@@ -71,18 +71,18 @@ export default function About() {
 
       <div className="max-w-4xl">
         <Paragraph className=" mt-4">
-          Hey there, Im Rafael Fonseca - a passionate founder, developer,
+          Hey there, I&apos;m Rafael Fonseca - a passionate founder, developer,
           and tech enthusiast. Welcome to my personal website!
         </Paragraph>
         <Paragraph className=" mt-4">
           My coding journey began when I moved to Canada from Brazil in 2015. It started
-          with basic mods for Minecraft and a platform called 'CodeMonkey'. Now being a 
+          with basic mods for Minecraft and a platform called CodeMonkey. Now being a 
           Software Developer, I thrive on problem solving through lines of code. My goal is 
           is to create software that will benefit society and solve problems.
         </Paragraph>
 
         <Paragraph className=" mt-4">
-          But my journey doesn't stop at coding. I am also passionate about 
+          But my journey doesn&apos;t stop at coding. I am also passionate about 
           self growth. This includes activites that will improve my mental toughness
           such as running when I want it the least, the gym, and Muay Thai (recently).
         </Paragraph>
