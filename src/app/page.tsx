@@ -14,7 +14,7 @@ export default function Home() {
       <Paragraph className="max-w-xl mt-4">
         I am a Software Developer studying Computer Engineering at 
         the <Highlight>University of Waterloo</Highlight>. My passion for 
-        learning has led me to explore web development, machine learning, and Web3.
+        learning has led me to explore web development, robotics, and Web3.
       </Paragraph>
       <Heading
         as="h2"
