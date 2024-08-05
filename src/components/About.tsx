@@ -84,12 +84,10 @@ export default function About() {
         <Paragraph className=" mt-4">
           But my journey does not stop at coding. I am also passionate about 
           self growth. This includes activites that will improve my mental toughness
-          such as running when I want it the least, the gym, and Muay Thai (recently).
+          such as running when I want it the least and the gym.
         </Paragraph>
         <Paragraph className=" mt-4">
-          What sets me apart is my passion and drive for success. I have 
-          stared at the face of failure, and it only ignited me. 
-          I did everything in my power and more to make sure I am where I am today. 
+          What sets me apart is my passion and drive for success. 
         </Paragraph>
       </div>
     </div>
