@@ -1,37 +1,44 @@
 export const products = [
-  // {
-  //   href: "https://gomoonbeam.com",
-  //   title: "Moonbeam",
-  //   description:
-  //     "Never write from scratch again with Moonbeam, your AI first writing tool",
-  //   thumbnail: "/images/sidefolio-moonbeam.png",
-  //   images: [
-  //     "/images/sidefolio-moonbeam.png",
-  //     "/images/sidefolio-moonbeam-2.png",
-  //   ],
-  //   stack: ["Nextjs", "Tailwindcss"],
-  //   slug: "moonbeam",
-  //   content: (
-  //     <div>
-  //       <p>
-  //         Sit eiusmod ex mollit sit quis ad deserunt. Sint aliqua aliqua ullamco
-  //         dolore nulla amet tempor sunt est ipsum. Dolor laborum eiusmod
-  //         cupidatat consectetur velit ipsum. Deserunt nisi in culpa laboris
-  //         cupidatat elit velit aute mollit nisi. Officia ad exercitation laboris
-  //         non cupidatat duis esse velit ut culpa et.{" "}
-  //       </p>
-  //       <p>
-  //         Exercitation pariatur enim occaecat adipisicing nostrud adipisicing
-  //         Lorem tempor ullamco exercitation quis et dolor sint. Adipisicing sunt
-  //         sit aute fugiat incididunt nostrud consequat proident fugiat id.
-  //         Officia aliquip laborum labore eu culpa dolor reprehenderit eu ex enim
-  //         reprehenderit. Cillum Lorem veniam eu magna exercitation.
-  //         Reprehenderit adipisicing minim et officia enim et veniam Lorem
-  //         excepteur velit adipisicing et Lorem magna.
-  //       </p>{" "}
-  //     </div>
-  //   ),
-  // },
+  {
+    href: "https://github.com/raf-fonseca/Growie", //TODO: Add link to Growie once deployed
+    title: "Growie",
+    description:
+      "Introducing Growie: a platform where farmers and gardeners rent out land to nature lovers, letting them create and enjoy their own personalized gardens! 🌱🌿",
+    thumbnail: "/images/Growie.jpeg",
+    images: [
+      "/images/sidefolio-moonbeam.png",
+      "/images/sidefolio-moonbeam-2.png",
+    ],
+    stack: ["MongoDB", "Nextjs", "Prisma", "Next Auth", "Typescript", "React", "Tailwindcss"], 
+    slug: "growie",
+    content: (
+      <div>
+        <p>
+        Growie connects nature lovers with landowners,
+        enabling them to rent out unused land for the creation
+        of dream gardens. It's more than just a business; it's a 
+        movement towards sustainable living, promoting the use of under
+        utilized land for environmental growth. Growie is sustainable because
+        it encourages mindful land use, fosters local agriculture, and strengthens community bonds.
+        The potential for growth is significant, driven by increasing demand for fresh produce as communities
+        become more aware of the harmful pesticides in conventional farming.{" "}
+        </p>
+        <p>
+        For landowners, Growie provides a unique opportunity to generate additional 
+        income from their unused land. By utilizing this service, they can turn idle 
+        land into a profitable asset while supporting sustainable agriculture practices. 
+        On the other hand, nature enthusiasts, often face the challenge of limited green space. 
+        Growie offers them the chance to rent a plot of land where they can experience the joy of 
+        growing their own crops, ensuring they are organic and free from harmful chemicals commonly 
+        found in conventional farming. This aligns with the growing trend of consumers seeking healthier, 
+        more sustainable food sources. To effectively reach landowners, I will include partnerships 
+        with agricultural organizations, direct mail campaigns, and local events in rural communities. 
+        For nature enthusiasts, digital marketing will play a key role, leveraging social media, 
+        gardening blogs, and sustainability forums to connect with individuals passionate about healthy living and gardening.
+        </p>{" "}
+      </div>
+    ),
+  },
   {
     href: "https://github.com/raf-fonseca/Network-Converter",
     title: "Network Converter",
