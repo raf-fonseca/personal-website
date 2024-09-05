@@ -16,7 +16,7 @@ export const products = [
         <p>
         Growie connects nature lovers with landowners,
         enabling them to rent out unused land for the creation
-        of dream gardens. It's more than just a business; it's a 
+        of dream gardens. It is more than just a business; it is a 
         movement towards sustainable living, promoting the use of under
         utilized land for environmental growth. Growie is sustainable because
         it encourages mindful land use, fosters local agriculture, and strengthens community bonds.
