@@ -18,6 +18,12 @@ export const TechStack = () => {
       className: "h-10 w-10",
     },
     {
+      title: "Typescript",
+      src: "/images/logos/typescript.png",
+
+      className: "h-10 w-10",
+    },
+    {
       title: "C",
       src: "/images/logos/C.png",
 
@@ -49,26 +55,35 @@ export const TechStack = () => {
     },
 
     {
-      title: "PostgreSQL",
-      src: "/images/logos/PostgreSQL.png",
+      title: "Mongodb",
+      src: "/images/logos/mongodb.png",
 
       className: "h-12 w-12",
     },
     {
-      title: "Django",
-      src: "/images/logos/django.png",
+      title: "Prisma",
+      src: "/images/logos/prisma.png",
 
       className: "h-10 w-16",
     },
-
-    
     {
       title: "Git",
       src: "/images/logos/git.png",
 
       className: "h-10 w-12",
     },
+    {
+      title: "NextAuth",
+      src: "/images/logos/nextAuth.jpeg",
 
+      className: "h-10 w-12",
+    },
+    {
+      title: "Web3",
+      src: "/images/logos/web3.png",
+
+      className: "h-10 w-12",
+    },
 
     {
       title: "Matlab",
