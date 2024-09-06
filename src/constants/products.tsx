@@ -22,19 +22,30 @@ export const products = [
         it encourages mindful land use, fosters local agriculture, and strengthens community bonds.
         The potential for growth is significant, driven by increasing demand for fresh produce as communities
         become more aware of the harmful pesticides in conventional farming.{" "}
-        </p>
+        </p>{" "}
+      </div>
+    ),
+  },
+  {
+    href: "https://www.youtube.com/watch?v=VT1dZdXU3b4", 
+    title: "AAVE agent",
+    description:
+      "A decentralized finance (DeFi) agent that interacts with the AAVE protocol to provide users with a seamless borrowing and lending experience.",
+    thumbnail: "/images/AAVE_agent.png",
+    images: [
+      "/images/sidefolio-moonbeam.png",
+      "/images/sidefolio-moonbeam-2.png",
+    ],
+    stack: ["Python", "Web3", "OpenAI API"], 
+    slug: "AAVE_Agent",
+    content: (
+      <div>
         <p>
-        For landowners, Growie provides a unique opportunity to generate additional 
-        income from their unused land. By utilizing this service, they can turn idle 
-        land into a profitable asset while supporting sustainable agriculture practices. 
-        On the other hand, nature enthusiasts, often face the challenge of limited green space. 
-        Growie offers them the chance to rent a plot of land where they can experience the joy of 
-        growing their own crops, ensuring they are organic and free from harmful chemicals commonly 
-        found in conventional farming. This aligns with the growing trend of consumers seeking healthier, 
-        more sustainable food sources. To effectively reach landowners, I will include partnerships 
-        with agricultural organizations, direct mail campaigns, and local events in rural communities. 
-        For nature enthusiasts, digital marketing will play a key role, leveraging social media, 
-        gardening blogs, and sustainability forums to connect with individuals passionate about healthy living and gardening.
+        This agent provides lending and borrowing of cryptocurrencies from the AAVE pool. 
+        AAVE is a Decentralized Finance (DeFi) protocol that allows users to lend and borrow 
+        cryptocurrencies without the need for intermediaries. It operates on a peer-to-peer network, 
+        providing liquidity and earning interest for lenders while offering collateralized 
+        loans for borrowers.{" "}
         </p>{" "}
       </div>
     ),
