@@ -9,7 +9,7 @@ export const products = [
       "/images/sidefolio-moonbeam.png",
       "/images/sidefolio-moonbeam-2.png",
     ],
-    stack: ["MongoDB", "Nextjs", "Prisma", "Next Auth", "Typescript", "React", "Tailwindcss"], 
+    stack: ["Typescript", "React", "Nextjs", "Prisma", "MongoDB", "Node.js", "Next Auth", "Tailwindcss"], 
     slug: "growie",
     content: (
       <div>

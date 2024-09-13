@@ -11,10 +11,10 @@ export default function Home() {
     <Container>
       <span className="text-4xl">👋</span>
       <Heading className="font-black">Hello there! My name is Rafael</Heading>
-      <Paragraph className="max-w-xl mt-4">
+      <Paragraph className="max-w-max mt-4">
         I am a Software Developer studying Computer Engineering at 
         the <Highlight>University of Waterloo</Highlight>. My passion for 
-        learning has led me to explore web development, robotics, and Web3.
+        learning has led me to explore full-stack development, robotics, and Web3.
       </Paragraph>
       <Heading
         as="h2"
