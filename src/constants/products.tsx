@@ -1,6 +1,6 @@
 export const products = [
   {
-    href: "https://github.com/raf-fonseca/Growie", //TODO: Add link to Growie once deployed
+    href: "https://growie.rafaelsf.com/", 
     title: "Growie",
     description:
       "Introducing Growie: a platform where farmers and gardeners rent out land to nature lovers, letting them create and enjoy their own personalized gardens! 🌱🌿",
